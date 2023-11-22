@@ -29,7 +29,7 @@ server:
 ```
 
 <h1>API Configuration</h1>
-```json
+```
 {
   "database": {
     "username": "",

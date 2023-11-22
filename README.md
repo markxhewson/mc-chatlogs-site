@@ -15,7 +15,8 @@ An API is then used to collect the data from the database and display it in JSON
 <img src="https://i.imgur.com/UJJuUP9.png"/>
 
 <h1>Plugin Configuration</h1>
-```
+
+```yml
 database:
   username: ''
   password: ''

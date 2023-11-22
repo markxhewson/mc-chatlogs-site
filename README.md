@@ -13,3 +13,31 @@ An API is then used to collect the data from the database and display it in JSON
 <h1>Web Page</h1>
 <h4>Search for messages by user UUID</h4>
 <img src="https://i.imgur.com/UJJuUP9.png"/>
+
+<h1>Plugin Configuration</h1>
+```yml
+database:
+  username: ''
+  password: ''
+  address: ''
+  database: 'chatlog'
+  port: 3306
+
+# If your server is a network, use this to identify different sub-servers (hub, prison, etc..)
+server:
+  name: 'server'
+```
+
+<h1>API Configuration</h1>
+```json
+{
+  "database": {
+    "username": "",
+    "password": "",
+    "address": "",
+    "database": "chatlog",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
+```

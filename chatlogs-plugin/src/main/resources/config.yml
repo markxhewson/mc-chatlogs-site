@@ -1,7 +1,7 @@
 database:
-  username: 'admin'
-  password: 'admin'
-  address: 'markxhewson.tech'
+  username: ''
+  password: ''
+  address: ''
   database: 'chatlog'
   port: 3306
 

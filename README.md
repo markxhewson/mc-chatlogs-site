@@ -23,7 +23,7 @@ database:
   database: 'chatlog'
   port: 3306
 
-# If your server is a network, use this to identify different sub-servers (hub, prison, etc..)
+If your server is a network, use this to identify different sub-servers (hub, prison, etc..)
 server:
   name: 'server'
 ```

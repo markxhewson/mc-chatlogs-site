@@ -27,17 +27,3 @@ If your server is a network, use this to identify different sub-servers (hub, pr
 server:
   name: 'server'
 ```
-
-<h1>API Configuration</h1>
-```
-{
-  "database": {
-    "username": "",
-    "password": "",
-    "address": "",
-    "database": "chatlog",
-    "port": 3306,
-    "dialect": "mysql"
-  }
-}
-```

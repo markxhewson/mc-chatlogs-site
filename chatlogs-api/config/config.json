@@ -1,9 +1,9 @@
 {
   "database": {
-    "username": "",
-    "password": "",
-    "address": "",
-    "database": "",
+    "username": "admin",
+    "password": "admin",
+    "address": "markxhewson.tech",
+    "database": "chatlog",
     "port": 3306,
     "dialect": "mysql"
   }

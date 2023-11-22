@@ -31,7 +31,7 @@ function App() {
 
   return (
     <>
-      <div className="flex h-screen justify-center items-center bg-slate-900 p-4">
+      <div className="flex h-screen justify-center bg-slate-900 p-4">
         <div className="mx-auto border-4 border-black p-4 bg-slate-800 w-[1100px] rounded-xl">
           <div className="relative">
             <div className="absolute inset-y-0 start-0 flex items-center ps-3 pointer-events-none">

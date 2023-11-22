@@ -13,7 +13,7 @@ The only setup required is to fill in the config options for both the plugin and
 
 <h1>Web Page</h1>
 <h4>Search for messages by user UUID</h4>
-<img src="https://i.imgur.com/UJJuUP9.png"/>
+<img src="https://i.imgur.com/VB0aEEW.png"/>
 
 <h1>Plugin Configuration</h1>
 

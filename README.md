@@ -26,3 +26,18 @@ database:
 server:
   name: 'server'
 ```
+
+<h1>API Configuration</h1>
+
+```json
+{
+  "database": {
+    "username": "",
+    "password": "",
+    "address": "",
+    "database": "chatlog",
+    "port": 3306,
+    "dialect": "mysql"
+  }
+}
+```

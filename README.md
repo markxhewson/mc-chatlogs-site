@@ -1,14 +1,13 @@
 # mc-chatlogs-site
-A 3-piece bit of software including; api, site and plugin that tracks minecraft chat and displays it in a web page.
+This system uses three different components, a Minecraft plugin, an express API, and a React + Vite web page.
 
-This system starts with a Minecraft plugin, which is where collects user messages and stores them in a database with the required information:
-- id
-- uuid
-- message
-- timestamp
-- server
+This is a moderation system for server owners to view Minecraft chat logs for their users in an effective way.
 
-An API is then used to collect the data from the database and display it in JSON format, for the site to then retrieve and display.
+<h1>Requirements</h1>
+- A host (preferably a VPS) where you can host your web page, API, and database.
+- A Minecraft server
+- Understanding of how to host web pages and API's
+- Understanding of how to set up a database
 
 <h1>Web Page</h1>
 <h4>Search for messages by user UUID</h4>

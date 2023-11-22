@@ -12,4 +12,4 @@ An API is then used to collect the data from the database and display it in JSON
 
 <h1>Web Page</h1>
 <h4>Search for messages by user UUID</h4>
-![image](https://prnt.sc/pM8JMImPSEFl)
+![Imgur Image](https://prnt.sc/pM8JMImPSEFl)

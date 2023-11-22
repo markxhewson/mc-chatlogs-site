@@ -1,14 +1,8 @@
 {
   "database": {
-<<<<<<< HEAD
-    "username": "admin",
-    "password": "admin",
-    "address": "markxhewson.tech",
-=======
     "username": "",
     "password": "",
     "address": "",
->>>>>>> 8b2553caed158bc49f53fa84488c8e48c2d72554
     "database": "chatlog",
     "port": 3306,
     "dialect": "mysql"

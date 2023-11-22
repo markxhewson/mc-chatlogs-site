@@ -1,0 +1,5 @@
+name: ChatLog
+version: '${project.version}'
+main: tech.markxhewson.chatlog.ChatLog
+api-version: '1.20'
+authors: [markxhewson]

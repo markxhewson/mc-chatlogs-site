@@ -3,7 +3,7 @@
     "username": "",
     "password": "",
     "address": "",
-    "database": "",
+    "database": "chatlog",
     "port": 3306,
     "dialect": "mysql"
   }

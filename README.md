@@ -12,4 +12,4 @@ An API is then used to collect the data from the database and display it in JSON
 
 <h1>Web Page</h1>
 <h4>Search for messages by user UUID</h4>
-![image](https://github.com/markxhewson/mc-chatlogs-site/assets/58112436/0d267747-69d1-4e8b-8a0c-0c1d0da3e16e)
+![image](https://prnt.sc/pM8JMImPSEFl)

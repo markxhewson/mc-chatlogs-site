@@ -5,9 +5,9 @@ This is a moderation system for server owners to view Minecraft chat logs for th
 
 <h1>Requirements</h1>
 <li> A host (preferably a VPS) where you can host your web page, API, and database.</li>
-- A Minecraft server
-- Understanding of how to host web pages and API's
-- Understanding of how to set up a database
+<li>A Minecraft server</li>
+<li>Understanding of how to host web pages and API's</li>
+<li>Understanding of how to set up a database</li>
 
 <h1>Web Page</h1>
 <h4>Search for messages by user UUID</h4>
